@@ -4,4 +4,4 @@ Le script d'installation du proxy squid vous permet de faire une installation du
 
 # Modules utilisés 
 
-subprocess, os, platform
+Subprocess, os, platform
