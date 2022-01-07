@@ -4,6 +4,11 @@ Le script d'installation du proxy squid vous permet de faire une installation du
 
 ![proxy_squid](https://user-images.githubusercontent.com/32979144/148516303-05003c3b-e5f0-4117-98de-0faabdce155d.png)
 
+<p align="center">
+  <img src="16382910141051_p3c3-1" width="350" title="hover text">
+  <img src="16382910141051_p3c3-1" width="350" alt="accessibility text">
+</p>
+
 # Modules utilisés 
 
 Subprocess, os, platform
