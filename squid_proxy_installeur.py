@@ -159,7 +159,7 @@ def desinstallsquid():
 while True:
     squid_select = input("""
     1 - Installation de squid
-    2 - Ajout de mot de passe
+    2 - Ajout d'un mot de passe
     3 - Changement du mot de passe
     4 - Suppression du mot de passe
     5 - Désinstallation de squid
