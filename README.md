@@ -18,3 +18,7 @@ python3 squid_proxy_installeur
     4 - Suppression du mot de passe
     5 - Désinstallation de squid
     6 - Sortie
+    
+# Auteur 
+. Antr4ck
+
