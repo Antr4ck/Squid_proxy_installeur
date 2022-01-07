@@ -8,3 +8,4 @@ Subprocess, os, platform
 
 # Utilisation 
 
+python3 squid_proxy-installeur
