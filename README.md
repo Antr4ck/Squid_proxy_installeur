@@ -2,6 +2,8 @@
 
 Le script d'installation du proxy squid vous permet de faire une installation du service, il permet l'ajout d'un utilisateur, la création d'un mot de passe pour accéder au service, le changement du mot de passe ainsi que sa suppression et la désinstallation du service proxy.
 
+![proxy_squid](https://user-images.githubusercontent.com/32979144/148516303-05003c3b-e5f0-4117-98de-0faabdce155d.png)
+
 # Modules utilisés 
 
 Subprocess, os, platform
