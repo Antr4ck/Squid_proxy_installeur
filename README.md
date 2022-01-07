@@ -24,4 +24,5 @@ python3 squid_proxy_installeur
 
 # License 
 
-This project is licensed under the MIT License - see the https://github.com/Antr4ck/Squid_proxy_installeur/blob/main/LICENSE file for details
+This project is licensed under the MIT License - see the 
+<a href="https://github.com/Antr4ck/Squid_proxy_installeur/blob/main/LICENSE ">LICENSE</a> file for details
